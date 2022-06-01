@@ -1,0 +1,25 @@
+https://github.com/fdadeau/GameDevJSJam2022.git
+This Source Code goes over a Game Featured in game jam similar to
+space invaders, or starfox. I really like  how the player moves
+the ships... and how the enemies fire and move aswell. I would
+like to gain insight on how to create something like that
+
+https://github.com/piskelapp/piskel.git
+A web app for pixel art, this can give me insight on how to create a
+drawing tool for a memory game where you have to draw an image and
+are scored based on accuracy or something like that. I think 2D art
+is really cool.
+
+https://github.com/ceribe/poke-versus.git
+Pokemon is awesome. This would hopefully allow me to learn how to 
+create a turnbased game similar to it. or atleast show me the basics.
+
+https://github.com/ddevault/TrueCraft.git
+Minecraft is cool on its own, but this repo goes into how to break into
+a game and Mod it. This might not just be limited to Minecraft. 
+This belongs to a whole thread called Hacking Minecraft, that allows you
+to edit so many things and gives you tools for several scenarios.
+
+https://github.com/github/gitignore
+A collection of templates that give functionality to how Git Ignore
+works and decides how to ignore certain data pieces.
